@@ -1,0 +1,45 @@
+#con{
+    background-color: aliceblue;
+
+}
+#col-1{
+background-color:rgb(197, 197, 197);
+width="500px";
+ height="100%";
+}
+#img{
+    width="400px";
+     height="100%";
+}
+#col-2{
+    font-size:50px;
+    font-style:italic;
+}
+#contact{
+    background-color:skyblue ;
+}
+#skills{
+    background-color:skyblue ;
+}
+#row-3{
+    background-color:rgb(197, 197, 197) ;
+}
+#para{
+    font-size:20px;
+    font-style:italic;
+
+}
+#para2{
+    font-size:20px ;
+    font-style:italic;
+}
+#para3{
+    font-size:20px ;
+    font-style:italic;
+}
+#cer{
+    background-color:skyblue ;
+}
+#lan{
+    background-color:skyblue ;
+}
